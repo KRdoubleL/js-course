@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+.soft-body {
+    background-color: rgb(black, green, blue)
+}
+
+
+.bolder {
+    color: #acacac;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+}
+
+.hidden {
+    display: none;
+}
